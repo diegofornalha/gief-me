@@ -13,7 +13,6 @@ GiefMe é uma plataforma que permite aos usuários interagir com contratos intel
 ### Instalação
 
 ```bash
-bashCopy code
 # Clone o repositório
 git clone https://github.com/diegofornalha/gief-me.git
 
@@ -28,7 +27,6 @@ yarn install
 ### Uso
 
 ```bash
-bashCopy code
 # Inicie o servidor de desenvolvimento
 yarn start
 
