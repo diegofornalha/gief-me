@@ -1,2 +1,5 @@
 coverage.json
 .idea
+*.lock
+node_modules/.yarn-integrity
+```
