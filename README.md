@@ -38,7 +38,7 @@ Acesse **`http://localhost:3000`** no seu navegador.
 
 ### Contribuição
 
-Sinta-se à vontade para abrir um pull request ou uma issue. Para discussões maiores, por favor, use o **[Discord](https://discord.gg/DXZEN4dQAM)**.
+Sinta-se à vontade para abrir um pull request ou uma issue. Para discussões maiores, por favor, use o **[Discord](https://discord.com/invite/hT8EpC5mUN)**.
 
 ### Licença
 
