@@ -25,14 +25,7 @@ yarn install
 ```
 
 ### Uso
-
-```bash
-# Inicie o servidor de desenvolvimento
-yarn start
-
-```
-
-Acesse **`http://localhost:3000`** no seu navegador.
+    (em breve)
 
 ### Contribuição
 
